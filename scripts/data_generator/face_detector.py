@@ -1,6 +1,6 @@
 import cv2
 import argparse
-import cPickle as pickle
+import _pickle as pickle
 import math
 import numpy as np
 import skvideo.io

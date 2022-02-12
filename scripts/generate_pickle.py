@@ -1,6 +1,6 @@
 import os
 import argparse
-import cPickle as pickle
+import _pickle as pickle
 import string,random
 
 printable = set(string.printable)
